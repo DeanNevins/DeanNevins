@@ -7,3 +7,6 @@
 [submodule "dirwatcher"]
 	path = dirwatcher
 	url = git@github.com:DeanNevins/dirwatcher.git
+[submodule "bugtracker"]
+	path = bugtracker
+	url = git@github.com:DeanNevins/bugtracker.git
