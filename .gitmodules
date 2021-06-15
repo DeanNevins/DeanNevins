@@ -4,3 +4,6 @@
 [submodule "twitterclone"]
 	path = twitterclone
 	url = git@github.com:DeanNevins/twitterclone.git
+[submodule "dirwatcher"]
+	path = dirwatcher
+	url = git@github.com:DeanNevins/dirwatcher.git
