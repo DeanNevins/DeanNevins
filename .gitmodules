@@ -1,3 +1,6 @@
 [submodule "twitterclone-DeanNevins"]
 	path = twitterclone-DeanNevins
 	url = https://github.com/kenzie-se-q4/twitterclone-DeanNevins
+[submodule "twitterclone"]
+	path = twitterclone
+	url = git@github.com:DeanNevins/twitterclone.git
